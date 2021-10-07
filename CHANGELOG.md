@@ -4,6 +4,10 @@ Please, check out guidelines: https://keepachangelog.com/en/1.0.0/
 
 ## Next
 
+### Added
+
+- Add `analytics` option to `Config.Cloud` to enable sending analytics event to cloud backend [#3547](https://github.com/tuist/tuist/pull/3547) by [@danyf90](https://github.com/danyf90)
+
 ## 2.0.2 - Wald
 
 ### Fixed
