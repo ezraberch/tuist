@@ -110,6 +110,7 @@ jobs:
             'init',
             'lint-code',
             'lint-project',
+            'parsers',
             'precompiled',
             'run',
             'scaffold',
